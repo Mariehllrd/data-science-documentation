@@ -14,6 +14,7 @@
 - [Python Regex](https://docs.python.org/3/howto/regex.html)
 - [Tweepy (_latest_)](http://docs.tweepy.org/en/latest/)
 - [Word Cloud](http://amueller.github.io/word_cloud/)
+- Wikipedia library (https://stackabuse.com/getting-started-with-pythons-wikipedia-api/)
 
 ### Cheat sheets:
 
